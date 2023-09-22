@@ -2,6 +2,8 @@
 
 This is a simple Weather App built with React that allows users to search for weather information by city name. It fetches data from the OpenWeatherMap API and displays the current weather conditions including temperature, humidity, and wind speed.
 
+<img src="https://github.com/sarsembek/Weather-App/blob/main/screen.png" />
+
 ## Features
 
 - Search for weather information by city name.
